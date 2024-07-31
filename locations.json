@@ -1,0 +1,12 @@
+{
+    "spawn": {"x": 0, "y": 0},
+    "ws_cook": {"x": 1, "y": 1},
+    "ws_weapon": {"x": 2, "y": 1},
+    "ws_gear": {"x": 3, "y": 1},
+    "ws_jewel": {"x": 1, "y": 3},
+    "ws_mine": {"x": 1, "y": 5},
+    "bank": {"x": 4, "y": 1},
+    "GE": {"x": 5, "y": 1},
+    "fight_chicken": {"x": 0, "y": 1},
+    "fight_cow": {"x": 0, "y": 2}
+}
